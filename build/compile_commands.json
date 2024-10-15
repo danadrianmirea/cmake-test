@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/adi/src/CMakeTest/build/code",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\cmake_test.dir\\main.cpp.obj -c D:\\adi\\src\\CMakeTest\\code\\main.cpp",
+  "file": "D:/adi/src/CMakeTest/code/main.cpp",
+  "output": "code/CMakeFiles/cmake_test.dir/main.cpp.obj"
+}
+]
